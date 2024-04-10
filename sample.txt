@@ -1,10 +1,10 @@
-id,firstname,lastname,email,email2,profession,salary
-100,Leontine,Zenas,Leontine.Zenas@yopmail.com,Leontine.Zenas@gmail.com,developer,12000
-101,Jany,Zitvaa,Jany.Zitvaa@yopmail.com,Jany.Zitvaa@gmail.com,doctor,12121
-102,Hermione,Constancy,Hermione.Constancy@yopmail.com,Hermione.Constancy@gmail.com,doctor,34211
-103,Chandra,Rolf,Chandra.Rolf@yopmail.com,Chandra.Rolf@gmail.com,developer,34211
-104,Nanete,Jacqui,Nanete.Jacqui@yopmail.com,Nanete.Jacqui@gmail.com,developer,11200
-105,Leeanne,Vivle,Leeanne.Vivle@yopmail.com,Leeanne.Vivle@gmail.com,worker,32111
-106,Hayley,Shanley,Hayley.Shanley@yopmail.com,Hayley.Shanley@gmail.com,police officer,12111
-107,June,Schroth,June.Schroth@yopmail.com,June.Schroth@gmail.com,firefighter,299100
-108,Donnie,Haymes,Donnie.Haymes@yopmail.com,Donnie.Haymes@gmail.com,firefighter,12111
+id,firstname,lastname,email,email2,profession,salary,Bio
+100,Leontine,Zenas,Leontine.Zenas@yopmail.com,Leontine.Zenas@gmail.com,developer,12000,loan
+101,Jany,Zitvaa,Jany.Zitvaa@yopmail.com,Jany.Zitvaa@gmail.com,doctor,12121,loan
+102,Hermione,Constancy,Hermione.Constancy@yopmail.com,Hermione.Constancy@gmail.com,doctor,34211,loan
+103,Chandra,Rolf,Chandra.Rolf@yopmail.com,Chandra.Rolf@gmail.com,developer,34211,cash
+104,Nanete,Jacqui,Nanete.Jacqui@yopmail.com,Nanete.Jacqui@gmail.com,developer,11200,cash
+105,Leeanne,Vivle,Leeanne.Vivle@yopmail.com,Leeanne.Vivle@gmail.com,worker,32111,loan
+106,Hayley,Shanley,Hayley.Shanley@yopmail.com,Hayley.Shanley@gmail.com,police officer,12111,cash
+107,June,Schroth,June.Schroth@yopmail.com,June.Schroth@gmail.com,firefighter,299100,loan
+108,Donnie,Haymes,Donnie.Haymes@yopmail.com,Donnie.Haymes@gmail.com,firefighter,12111,loan
