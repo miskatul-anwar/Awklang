@@ -7,9 +7,9 @@ function add(x,y){
 BEGIN{
   x=5
   y=5
+  print add(x,y)
 }
 
 END{
-  print add(x,y)
 }
 
