@@ -13,7 +13,9 @@ BEGIN{
     print i ": "marks[i]
     }
   }
-  {}
+  {
+
+    }
   END{
 
     }
